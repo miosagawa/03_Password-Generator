@@ -9,3 +9,7 @@ This website generates a ramdom password.
 Javasxript create a password between 8 and 128 characters.
 To create a password, just click the red generate password button.
 Password has at least one small character, one big character, one number and one special character.
+
+    __Project sample:__
+
+![sample](sample.png)
