@@ -1,7 +1,7 @@
 Folder update content:
 Update date：July 23, 2020
 
-URL:https://miosagawa.github.io/03_Password-Generator/Develop/index.html
+URL:https://miosagawa.github.io/03_Password-Generator/index.html
 Github:https://github.com/miosagawa/03_Password-Generator
 
 
